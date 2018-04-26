@@ -19,7 +19,10 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": ""
   },
   "pages": {
     "index.html": {
